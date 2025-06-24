@@ -2,7 +2,7 @@
 
 I'm Lukasz, a Backend Developer from Poland, currently living in Toronto.
 
-- [Personal Website](https://lukaszzagroba.com)  
+- [Personal Website](https://lzag.dev)  
 - [LinkedIn](https://www.linkedin.com/in/lzagroba)  
 
 ## Currently working with:
