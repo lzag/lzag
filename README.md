@@ -1,6 +1,6 @@
 # Hi, welcome to my page!
 
-I'm Lukasz, a Backend Developer from Poland, currently living in Toronto.
+I'm Lukasz, a Senior Backend Engineer from Poland, currently living in Toronto.
 
 - [Personal Website](https://lzag.dev)  
 - [LinkedIn](https://www.linkedin.com/in/lzagroba)  
