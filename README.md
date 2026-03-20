@@ -1,28 +1,39 @@
 # Hi, welcome to my page!
 
-I'm Lukasz, a Senior Backend Engineer from Poland, currently living in Toronto.
+I'm Lukasz, a Senior Backend Engineer from Poland, living in Toronto. I build backend systems in Kotlin, Java, and PHP — currently at Betr working on live betting infrastructure.
 
-- [Personal Website](https://lzag.dev)  
-- [LinkedIn](https://www.linkedin.com/in/lzagroba)  
+- [Personal Website](https://lzag.dev)
+- [LinkedIn](https://www.linkedin.com/in/lzagroba)
 
 ## Currently working with:
 
-<div style="display: flex; gap: 10px;">
-  <a href="https://docs.docker.com"><img src="icons/docker.png" alt="Docker"></a>
-  <a href="http://jetbrains.com/idea/resources/"><img src="icons/idea.png" alt="IntelliJ IDEA"></a>
-  <a href="https://docs.oracle.com/en/java/"><img src="icons/java.png" alt="Java"></a>
-  <a href="https://www.php.net/docs.php"><img src="icons/php.png" alt="PHP"></a>
-  <a href="https://neovim.io/doc/"><img src="icons/vim.png" alt="Vim"></a>
-  <a href="https://kotlinlang.org/docs/home.html"><img src="icons/kotlin.png" alt="Kotlin"></a>
-  <a href="https://laravel.com/docs/12.x/readme"><img src="icons/laravel.png" alt="Laravel"></a>
-  <a href="https://www.mongodb.com/docs/"><img src="icons/mongo.png" alt="MongoDB"></a>
-  <a href="https://redis.io/docs/latest/"><img src="icons/redis.png" alt="Redis"></a>
-  <a href="https://dev.mysql.com/doc/"><img src="icons/mysql.png" alt="MySQL"></a>
-</div>
+[![My Skills](https://skillicons.dev/icons?i=kotlin,java,php,laravel,docker,mysql,redis,mongodb,neovim,idea)](https://skillicons.dev)
 
 ## Learning:
 
-<div style="display: flex; gap: 10px;">
-  <a href="https://go.dev/doc/"><img src="icons/golang.png" alt="Go"></a>
-  <a href="https://www.lua.org/docs.html"><img src="icons/lua.png" alt="Lua"></a>
-</div>
+[![Learning](https://skillicons.dev/icons?i=go,lua)](https://skillicons.dev)
+
+## Work History
+
+**Software Developer @ Betr** — *May 2023 – present · Toronto*
+Kotlin · Java · PHP · Laravel · Docker · MySQL · Redis
+Building live betting systems, led test coverage, designed microservices, cut bet latency by 60%.
+
+**Software Developer @ FansUnite** *(acquired by Betr)* — *Mar 2022 – May 2023 · Toronto*
+PHP · Laravel · MySQL · Redis · AWS · Docker
+Engineered scalable gaming platform APIs, optimized performance with caching and async processing.
+
+**Software Developer @ Lifeline Design** — *Aug 2020 – Feb 2022 · Toronto*
+PHP · MySQL · JavaScript
+Email app front/back-end and insurance ERP on the LAMP stack.
+
+**Software Developer @ Freelance** — *Mar 2020 – Aug 2020 · Toronto*
+PHP · Laravel · MySQL
+ERP features, shipping API integrations, tax submission API.
+
+**Solutions Engineer @ Adsmurai** — *Oct 2019 – Mar 2020 · Barcelona*
+PHP · Laravel · GCP · Node.js
+Custom PHP solutions, business automation, API integrations with GCP.
+
+**Solutions Engineer @ Inbenta** — *Oct 2018 – Oct 2019 · Barcelona*
+Led AI project lifecycle, client requirements, testing and post-delivery support.
