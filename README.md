@@ -24,28 +24,28 @@ I'm Lukasz, Senior Backend Engineer based in Toronto, originally from Poland. I 
   <a href="https://www.lua.org/docs.html"><picture><source media="(prefers-color-scheme: dark)" srcset="icons/dark/lua.png"><img src="icons/lua.png" alt="Lua" height="40"></picture></a>
 </div>
 
-## Work History
+## Experience
 
 **Software Developer @ Betr** · *May 2023 – present · Toronto*<br>
-`kotlin` `java` `php` `laravel` `docker` `mysql` `redis`<br>
-Building live betting systems, led test coverage, designed microservices, cut bet latency by 60%.
+Backend development on a live sports betting platform, working across microservices that handle high-frequency, low-latency data pipelines.<br>
+`kotlin` `java` `php` `laravel` `docker` `mysql` `redis`
 
 **Software Developer @ FansUnite** *(acquired by Betr)* · *Mar 2022 – May 2023 · Toronto*<br>
-`php` `laravel` `mysql` `redis` `aws` `docker`<br>
-Engineered scalable gaming platform APIs, optimized with caching and async processing.
+Backend development on a sports gaming platform, building and maintaining APIs, implementing new features, and improving system performance.<br>
+`php` `laravel` `mysql` `redis` `aws` `docker`
 
 **Software Developer @ Lifeline Design** · *Aug 2020 – Feb 2022 · Toronto*<br>
-`php` `mysql` `javascript`<br>
-Email app front/back-end and insurance ERP on the LAMP stack.
+Delivered a full-stack email application and led development of a custom insurance ERP system built on the LAMP stack.<br>
+`php` `mysql` `javascript`
 
 **Software Developer @ Freelance** · *Mar 2020 – Aug 2020 · Toronto*<br>
-`php` `laravel` `mysql`<br>
-ERP features, shipping API integrations, tax submission API.
+Extended an existing ERP for a logistics client, integrating third-party shipping APIs and building a tax submission API from scratch.<br>
+`php` `laravel` `mysql`
 
 **Solutions Engineer @ Adsmurai** · *Oct 2019 – Mar 2020 · Barcelona*<br>
-`php` `laravel` `gcp` `nodejs`<br>
-Custom solutions, business automation, API integrations.
+Developed custom PHP integrations between client systems and Google Cloud Platform, automating workflows and reducing manual overhead for the operations team.<br>
+`php` `laravel` `gcp` `nodejs`
 
 **Solutions Engineer @ Inbenta** · *Oct 2018 – Oct 2019 · Barcelona*<br>
-`php`<br>
-Led AI project lifecycle, client requirements gathering, testing and support.
+Owned the full project lifecycle for AI chatbot deployments, from gathering client requirements through delivery, testing, and post-launch support.<br>
+`php`
