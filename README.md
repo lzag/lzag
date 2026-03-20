@@ -26,42 +26,36 @@ I'm Lukasz, Senior Backend Engineer based in Toronto, originally from Poland. I 
 
 ## Experience
 
-**Software Developer @ Betr**<br>
-*May 2023 – present · Toronto*<br>
+<h4>Software Developer @ Betr <sub><i>May 2023 – present · Toronto</i></sub></h4>
 Backend development on a live sports betting platform, working across microservices that handle high-frequency, low-latency data pipelines.<br>
 `kotlin` `java` `php` `laravel` `docker` `mysql` `redis`
 
----
+&nbsp;
 
-**Software Developer @ FansUnite** *(acquired by Betr)*<br>
-*Mar 2022 – May 2023 · Toronto*<br>
+<h4>Software Developer @ FansUnite <sub><i>(acquired by Betr) · Mar 2022 – May 2023 · Toronto</i></sub></h4>
 Backend development on a sports gaming platform, building and maintaining APIs, implementing new features, and improving system performance.<br>
 `php` `laravel` `mysql` `redis` `aws` `docker`
 
----
+&nbsp;
 
-**Software Developer @ Lifeline Design**<br>
-*Aug 2020 – Feb 2022 · Toronto*<br>
+<h4>Software Developer @ Lifeline Design <sub><i>Aug 2020 – Feb 2022 · Toronto</i></sub></h4>
 Delivered a full-stack email application and led development of a custom insurance ERP system built on the LAMP stack.<br>
 `php` `mysql` `javascript`
 
----
+&nbsp;
 
-**Software Developer @ Freelance**<br>
-*Mar 2020 – Aug 2020 · Toronto*<br>
+<h4>Software Developer @ Freelance <sub><i>Mar 2020 – Aug 2020 · Toronto</i></sub></h4>
 Extended an existing ERP for a logistics client, integrating third-party shipping APIs and building a tax submission API from scratch.<br>
 `php` `laravel` `mysql`
 
----
+&nbsp;
 
-**Solutions Engineer @ Adsmurai**<br>
-*Oct 2019 – Mar 2020 · Barcelona*<br>
+<h4>Solutions Engineer @ Adsmurai <sub><i>Oct 2019 – Mar 2020 · Barcelona</i></sub></h4>
 Developed custom PHP integrations between client systems and Google Cloud Platform, automating workflows and reducing manual overhead for the operations team.<br>
 `php` `laravel` `gcp` `nodejs`
 
----
+&nbsp;
 
-**Solutions Engineer @ Inbenta**<br>
-*Oct 2018 – Oct 2019 · Barcelona*<br>
+<h4>Solutions Engineer @ Inbenta <sub><i>Oct 2018 – Oct 2019 · Barcelona</i></sub></h4>
 Owned the full project lifecycle for AI chatbot deployments, from gathering client requirements through delivery, testing, and post-launch support.<br>
 `php`
