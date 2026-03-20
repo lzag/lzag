@@ -26,36 +26,30 @@ I'm Lukasz, Senior Backend Engineer based in Toronto, originally from Poland. I 
 
 ## Experience
 
-<h4>Software Developer @ Betr <sub><i>May 2023 – present · Toronto</i></sub></h4>
+**Software Developer @ Betr** · *May 2023 – present · Toronto*<br>
 Backend development on a live sports betting platform, working across microservices that handle high-frequency, low-latency data pipelines.<br>
 `kotlin` `java` `php` `laravel` `docker` `mysql` `redis`
 
 &nbsp;
 
-<h4>Software Developer @ FansUnite <sub><i>(acquired by Betr) · Mar 2022 – May 2023 · Toronto</i></sub></h4>
+**Software Developer @ FansUnite** *(acquired by Betr)* · *Mar 2022 – May 2023 · Toronto*<br>
 Backend development on a sports gaming platform, building and maintaining APIs, implementing new features, and improving system performance.<br>
 `php` `laravel` `mysql` `redis` `aws` `docker`
 
 &nbsp;
 
-<h4>Software Developer @ Lifeline Design <sub><i>Aug 2020 – Feb 2022 · Toronto</i></sub></h4>
+**Software Developer @ Lifeline Design** · *Aug 2020 – Feb 2022 · Toronto*<br>
 Delivered a full-stack email application and led development of a custom insurance ERP system built on the LAMP stack.<br>
 `php` `mysql` `javascript`
 
 &nbsp;
 
-<h4>Software Developer @ Freelance <sub><i>Mar 2020 – Aug 2020 · Toronto</i></sub></h4>
-Extended an existing ERP for a logistics client, integrating third-party shipping APIs and building a tax submission API from scratch.<br>
-`php` `laravel` `mysql`
-
-&nbsp;
-
-<h4>Solutions Engineer @ Adsmurai <sub><i>Oct 2019 – Mar 2020 · Barcelona</i></sub></h4>
+**Solutions Engineer @ Adsmurai** · *Oct 2019 – Mar 2020 · Barcelona*<br>
 Developed custom PHP integrations between client systems and Google Cloud Platform, automating workflows and reducing manual overhead for the operations team.<br>
 `php` `laravel` `gcp` `nodejs`
 
 &nbsp;
 
-<h4>Solutions Engineer @ Inbenta <sub><i>Oct 2018 – Oct 2019 · Barcelona</i></sub></h4>
+**Solutions Engineer @ Inbenta** · *Oct 2018 – Oct 2019 · Barcelona*<br>
 Owned the full project lifecycle for AI chatbot deployments, from gathering client requirements through delivery, testing, and post-launch support.<br>
 `php`
