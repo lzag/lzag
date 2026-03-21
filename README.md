@@ -29,21 +29,21 @@ I'm Lukasz, Senior Backend Engineer based in Toronto, originally from Poland. I 
 **Software Developer @ Betr** · *May 2023 – present · Toronto*<br>
 Backend development on a live sports betting platform, working across microservices that handle high-frequency, low-latency data pipelines.<br>
 `kotlin` `java` `php` `laravel` `docker` `mysql` `redis`
-
 &nbsp;
 
 **Software Developer @ FansUnite** *(acquired by Betr)* · *Mar 2022 – May 2023 · Toronto*<br>
 Backend development on a sports gaming platform, building and maintaining APIs, implementing new features, and improving system performance.<br>
 `php` `laravel` `mysql` `redis` `aws` `docker`
 &nbsp;
+
 **Software Developer @ Lifeline Design** · *Aug 2020 – Feb 2022 · Toronto*<br>
 Delivered a full-stack email application and led development of a custom insurance ERP system built on the LAMP stack.<br>
 `php` `mysql` `javascript`
 &nbsp;
+
 **Solutions Engineer @ Adsmurai** · *Oct 2019 – Mar 2020 · Barcelona*<br>
 Developed custom PHP integrations between client systems and Google Cloud Platform, automating workflows and reducing manual overhead for the operations team.<br>
 `php` `laravel` `gcp` `nodejs`
-
 &nbsp;
 
 **Solutions Engineer @ Inbenta** · *Oct 2018 – Oct 2019 · Barcelona*<br>
